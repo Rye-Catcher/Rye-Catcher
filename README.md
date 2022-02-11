@@ -1,5 +1,9 @@
-### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rye-Catcher&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+### 
+
+A year 2 CS student who currentlly struggling finding a balance between writing an :symbols: interpreter and playing :hocho: Kenshi
+
+
+[![lxt's github stats](https://github-readme-stats.vercel.app/api?username=Rye-Catcher&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Rye-Catcher/Rye-Catcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
