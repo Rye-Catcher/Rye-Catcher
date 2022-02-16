@@ -1,6 +1,6 @@
 ### 
 
-A year 2 CS student who currently struggling finding a balance between writing an :symbols: interpreter, playing :hocho: Kenshi and making :musical_keyboard: music coversbBecause I am a noob for these 3 things 
+A year 2 CS student who currently struggling finding a balance between writing an :symbols: interpreter, playing :hocho: Kenshi and making :musical_keyboard: music covers because I am a noob for these 3 things 
 
 
 [![lxt's github stats](https://github-readme-stats.vercel.app/api?username=Rye-Catcher&theme=blue-green&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
