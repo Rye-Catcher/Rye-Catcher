@@ -46,6 +46,10 @@
   writing an :symbols: interpreter, playing :hocho: Kenshi and making :musical_keyboard: music covers </br>
   because I am a noob for these things 
 </p>
+
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/Rye-Catcher/Rye-Catcher"></a> 
+</p>
 <!--
 ### 
 
