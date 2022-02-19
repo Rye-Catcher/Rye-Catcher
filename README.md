@@ -10,6 +10,9 @@
   <a href="https://www.linkedin.com/in/xiaoteng-lyu-a50597202/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UCWq1Qpyk7L_EO1mtoNhet8w/featured">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>&nbsp;&nbsp;
 </p>
 
 <p align='center'>
