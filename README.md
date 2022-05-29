@@ -46,9 +46,7 @@
 
 
 <p align='center'>
-  Struggling to find a balance between </br> 
-  writing an :symbols: interpreter, playing :hocho: Kenshi and making :musical_keyboard: music covers </br>
-  because I am a noob for these things 
+  Currently finding a balance between playing FF14 and learning new things </br>  
 </p>
 
 <p align='center'>
