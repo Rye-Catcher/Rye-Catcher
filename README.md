@@ -3,7 +3,7 @@
 </h2>
 
 <p align='center'>
-  A 2nd year Computer Science undergraduate @National University of Singapore
+  A 3rd year Computer Science undergraduate @National University of Singapore
 </p>
 
 <p align='center'>
