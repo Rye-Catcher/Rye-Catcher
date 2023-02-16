@@ -46,14 +46,16 @@
 
 
 <p align='center'>
-  Currently finding a balance between playing FF14 and learning new things </br>  
+  I am looking for an internship if you would be so kind </br>  
 </p>
 
+
+<!--
+###
+ 
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/Rye-Catcher/Rye-Catcher"></a> 
 </p>
-<!--
-### 
 
 A year 2 CS student who currently struggling finding a balance between writing an :symbols: interpreter, playing :hocho: Kenshi and making :musical_keyboard: music covers because I am a noob for these 3 things 
 
