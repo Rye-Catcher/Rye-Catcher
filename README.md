@@ -46,7 +46,7 @@
 
 
 <p align='center'>
-  I am looking for an internship if you would be so kind </br>  
+  Trying to abuse ChatGPT atm, btw I am looking for an internship if you would be so kind </br>  
 </p>
 
 
