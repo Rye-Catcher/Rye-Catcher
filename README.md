@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>A lazy coder.</p>
+        <p>Currently year 4 undergrad @NUS.</p>
+        <p>I like video games and impulsion-oriented programming (IOP).</p>
+    <body>   
+</html>
+
+<!--
+###
 <h2 align='center'>
   Hi there 👋 I'm Xiaoteng
 </h2>
@@ -49,8 +60,7 @@
 </p>
 
 
-<!--
-###
+
  
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/Rye-Catcher/Rye-Catcher"></a> 
