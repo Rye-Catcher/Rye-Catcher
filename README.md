@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
     <body>
-        <p>A lazy coder.</p>
+        <p>A normie coder.</p>
         <p>Currently year 4 undergrad @NUS.</p>
-        <p>I like video games and impulsion-oriented programming.</p>
+        <p>I like impulsion-oriented programming.</p>
     <body>   
 </html>
 
