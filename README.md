@@ -2,10 +2,8 @@
 <html>
     <body>
         <p>A coder and gamer.</p>
-        <p>Currently year 4 undergrad @NUS.</p>
+        <p>Currently in my final semester of undergrad @NUS.</p>
         <p>I like impulsion-oriented programming.</p>
-        <p>When I am not working, I like to listen to music and play video games.</p>
-        <p>Here is my Spotify selection <a href="https://open.spotify.com/playlist/5bDPt0Mer6Dab3jy9VjHU9?si=52290a8a2c704131">playlist</a> and my <a href="https://steamcommunity.com/profiles/76561198153319726/">Steam profile</a></p>
     <body>   
 </html>
 
