@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <body>
+        <p>How to pronounce my given name "Xiaoteng": [shiel(d)]--[ten-ng]</p>
         <p>A coder, gamer, and a music lover.</p>
         <p>Currently in my final semester of undergrad @NUS.</p>
         <p>I mainly use C++, Java and Go. Sometimes I tweak the music and sounds.</p>
