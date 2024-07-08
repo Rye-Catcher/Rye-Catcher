@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 <html>
     <body>
-        <p>A coder and gamer.</p>
+        <p>A coder, gamer, and a music lover.</p>
         <p>Currently in my final semester of undergrad @NUS.</p>
-        <p>I like impulsion-oriented programming.</p>
+        <p>I mainly use C++, Java and Go. Sometimes I tweak the music and sounds.</p>
+        <p>Here is one of the most beautiful things created by human beings:</p>
+        <a href="https://www.youtube.com/watch?v=-LeE86jZEXo&list=PLrs2g03ILsleCw-Jnr_bdBoR_VD_ETkEb">
+          <img src="img/50_50_PetSounds.png" alt="PetSounds">
+        </a>
     <body>   
 </html>
 
